@@ -6,28 +6,26 @@
 
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 
-- 🔭 I’m currently working at **Bimser Çözüm**
+- 🔭 I’m currently working at **[Enuygun - Test Automation Bootcamp](https://www.patika.dev/bootcamp/enuygun-test-automation-bootcamp)**
 
 - 🌱 I'm currently developing myself in **Java and JavaScript**
 
-- 💬 Ask me about **C#, Python, Java, JavaScript and SQL**
+- 💬 Ask me about **C#, Python, Java, JavaScript and SQL** 
 
-- 🌎 Check out my website **[https://onurerdemiroglu.com.tr](https://onurerdemiroglu.com.tr)**
-
-- 📫 How to reach me **onurerdemiroglu@gmail.com**
+- 📫 How to reach me **fbusrakarahasan@gmail.com**
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://linkedin.com/in/onurerdemiroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurerdemiroglu" height="30" width="40" /></a>
-<a href="https://medium.com/@onurerdemiroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onurerdemiroglu" height="30" width="40" /></a>
-<a href="https://app.patika.dev/onurerdemir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35347777/144942844-9ea9da41-9689-416e-b1a5-5731678a500f.png" alt="@onurerdemir" height="30" width="50" /></a>
-<a href="https://twitter.com/onurerdemiroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onurerdemiroglu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16987447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16987447" height="30" width="40" /></a>
-<a href="https://fb.com/onurerdemirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="onurerdemirrr" height="30" width="40" /></a>
-<a href="https://instagram.com/onurerdemirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurerdemirrr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucntstautjndf15_tdgkc-4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucntstautjndf15_tdgkc-4a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/onurerdemiroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onurerdemiroglu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatmabusrakarahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmabusrakarahasan" height="30" width="40" /></a>
+<a href="https://medium.com/@fbusrakarahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fbusrakarahasan" height="30" width="40" /></a>
+<a href="https://app.patika.dev/fbusrak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35347777/144942844-9ea9da41-9689-416e-b1a5-5731678a500f.png" alt="@fbusrak" height="30" width="50" /></a>
+<a href="https://twitter.com/fbussra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fbussra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19402503/fatma-b%c3%bc%c5%9fra-karahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19402503" height="30" width="40" /></a>
+<a href="https://fb.com/fatmabusra.karahasan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatmabusra.karahasan.92" height="30" width="40" /></a>
+<a href="https://instagram.com/fbusrakarahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fbusrakarahasan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXqm9oCdMqThVlGukpXzGWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCXqm9oCdMqThVlGukpXzGWw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fbusrakarahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fbusrakarahasan" height="30" width="40" /></a>
 </p>
 
 <h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
