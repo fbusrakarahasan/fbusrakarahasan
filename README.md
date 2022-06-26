@@ -1,4 +1,4 @@
-<h1 align="center"> Hello I'm Büşra<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/> </h1> 
+<h1 align="center"> Hello I'm Busra<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/> </h1> 
 <h3 align="center">Software Developer In Test</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35347777/144943077-952d450d-6d68-4135-8099-3dc8b589b761.gif" alt="@fbusrakarahasan" height="300" width="400" />
