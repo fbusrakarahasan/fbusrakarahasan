@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **[Enuygun - Test Automation Bootcamp](https://www.patika.dev/bootcamp/enuygun-test-automation-bootcamp)**
 
-- 🌱 I'm currently developing myself in **Java and JavaScript**
+- 🌱 I'm currently developing myself in **Java**
 
-- 💬 Ask me about **C#, Python, Java, JavaScript and SQL** 
+- 💬 Ask me about **C#, Java and SQL** 
 
 - 📫 How to reach me **fbusrakarahasan@gmail.com**
 
